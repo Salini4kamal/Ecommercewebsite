@@ -1,0 +1,33 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "description": "ecommerce using MERN stack",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+  "backend": "nodemon backend/server.js",
+  "frontend": "npm run dev --prefix frontend",
+  "start": "node backend/server.js",
+  "dev": "vite --prefix frontend",
+  "build": "vite build --prefix frontend",
+  "preview": "vite preview --prefix frontend"
+},
+
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "crypto": "^1.0.1",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.4.1",
+    "nodemailer": "^8.0.5",
+    "validator": "^13.15.26"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

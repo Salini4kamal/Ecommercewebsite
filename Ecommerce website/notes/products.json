@@ -1,0 +1,157 @@
+[
+        {
+            "name": "white shirt",
+            "description": "cotton white shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 999,
+            "mrp": 1299,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 1,
+            "rating": 2,
+            "reviews": []
+        },
+        {
+            "rating": 3,
+            "numOfReviews": 3,
+            "name": "black shirt",
+            "description": "cotton black shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The sleek black color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 1099,
+            "mrp": 1399,
+            "image": [
+                 {
+                    "public_id": "sample_image_id",
+                    "url": "https://plus.unsplash.com/premium_vector-1718370392212-cc9815e7e2c2?w=352&dpr=1&h=367&auto=format&fit=crop&q=60&ixlib=rb-4.1.0"
+                }
+            ],
+            "category": "shirts",
+            "stock": 10,
+            "__v": 0,
+             
+            "reviews": [],
+            "createdAt": "2026-05-14T17:08:54.289Z"
+        }, {
+            "rating": 4,
+            "numOfReviews": 2,
+            "name": "green shirt",
+            "description": "cotton green shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The vibrant green color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 1099,
+            "mrp": 1399,
+            "image": [
+                 {
+                    "public_id": "sample_image_id",
+                    "url": "https://plus.unsplash.com/premium_vector-1718370392212-cc9815e7e2c2?w=352&dpr=1&h=367&auto=format&fit=crop&q=60&ixlib=rb-4.1.0"
+                }
+            ],
+            "category": "shirts",
+            "stock": 10,
+            "__v": 0,
+           
+            "reviews": [],
+            "createdAt": "2026-05-14T17:08:54.289Z"
+       }, {
+            "rating": 5,
+            "numOfReviews": 4,
+            "name": "black shirt",
+            "description": "cotton black shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The sleek black color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 1099,
+            "mrp": 1799,
+            "image": [
+                 {
+                    "public_id": "sample_image_id",
+                   "url": "https://plus.unsplash.com/premium_vector-1718370392212-cc9815e7e2c2?w=352&dpr=1&h=367&auto=format&fit=crop&q=60&ixlib=rb-4.1.0"
+                }
+            ],
+            "category": "shirts",
+            "stock": 10,
+            "__v": 0,
+            
+            "reviews": [],
+            "createdAt": "2026-05-14T17:08:54.289Z"
+        },
+        {
+            "name": "blue shirt",
+            "description": "cotton blue shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The vibrant blue color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 299,
+            "mrp": 1299,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+           
+            "numOfReviews": 1,
+            "rating": 5,
+            "reviews": []
+        },
+        {
+            "name": "pale shirt",
+            "description": "cotton pale shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The pale color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 599,
+            "mrp": 1299,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+           
+            "numOfReviews": 24,
+            "rating": 4,
+            "reviews": []
+        },
+        {
+            "name": "orange shirt",
+            "description": "cotton orange shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The vibrant orange color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 249,
+            "mrp": 1099,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+           
+            "numOfReviews": 12,
+            "rating": 5,
+            "reviews": []
+        },
+        {
+            "name": "white shirt",
+            "description": "cotton white shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        }]
