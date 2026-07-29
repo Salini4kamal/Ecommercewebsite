@@ -137,6 +137,120 @@
             "reviews": []
         },
         {
+            "name": "blue pant",
+            "description": "cotton blue pant with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this pant offers breathability and comfort throughout the day. The vibrant blue color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "pants",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
+            "name": "florished orange shirt",
+            "description": "cotton orange shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The vibrant orange color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
+            "name": "green shirt",
+            "description": "cotton green shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp green color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
+            "name": "pure white shirt",
+            "description": "cotton pure white shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 899,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
+            "name": "sandal shirt",
+            "description": "cotton sandal shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp sandal color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
+            "name": "tight shirt",
+            "description": "cotton tight shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
             "name": "white shirt",
             "description": "cotton white shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
             "price": 699,
@@ -154,4 +268,211 @@
             "numOfReviews": 51,
             "rating": 3,
             "reviews": []
-        }]
+        },
+     {
+            "name": "white shirt",
+            "description": "cotton white shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
+            "name": "tight shirt",
+            "description": "cotton tight shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
+            "name": "lemonshirt",
+            "description": "cotton lemon shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp lemon color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 899,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        },
+     {
+            "name": "whitshirt",
+            "description": "cotton whitessd shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 4,
+            "reviews": []
+        },
+     {
+            "name": "maroon shirt",
+            "description": "cotton maroon shirt with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this shirt offers breathability and comfort throughout the day. The crisp maroon color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 4919,
+            "mrp": 14199,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shirts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 31,
+            "rating": 4,
+            "reviews": []
+        },
+     {
+            "name": "brown pant",
+            "description": "cotton brown pant with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this pant offers breathability and comfort throughout the day. The vibrant brown color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "pants",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 5,
+            "reviews": []
+        },
+     {
+            "name": "white pant",
+            "description": "cotton white pant with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this pant offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "pants",
+            "stock": 15,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 2,
+            "reviews": []
+        },
+         {
+            "name": "white short",
+            "description": "cotton white short with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this short offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shorts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 4,
+            "reviews": []
+        }, {
+            "name": "white short",
+            "description": "cotton white short with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this short offers breathability and comfort throughout the day. The crisp white color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shorts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        }, {
+            "name": "blue short",
+            "description": "cotton blue short with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this short offers breathability and comfort throughout the day. The crisp blue color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shorts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        }, {
+            "name": "pink shorts",
+            "description": "cotton pink short with long sleeves and a classic collar, perfect for formal occasions or office wear. Made from high-quality cotton fabric, this short offers breathability and comfort throughout the day. The crisp pink color adds a touch of sophistication to any outfit, making it a versatile wardrobe staple.",
+            "price": 699,
+            "mrp": 1499,
+            "image": [
+                {
+                    "public_id": "sample_image_id",
+                    "url": "https://media.istockphoto.com/id/2155498776/photo/woman-walking-with-shopping-bags-on-city-street.jpg?s=1024x1024&w=is&k=20&c=rVcFfmH7V8PywEtGmZ2bMA4X7t0xWNiSvbECSZAyO_g="
+                }
+            ],
+            "category": "shorts",
+            "stock": 8,
+            "__v": 1,
+            "createdAt": "2026-04-25T11:20:16.714Z",
+            "numOfReviews": 51,
+            "rating": 3,
+            "reviews": []
+        }
+    ]

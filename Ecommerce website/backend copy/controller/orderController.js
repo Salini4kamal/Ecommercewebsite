@@ -80,7 +80,7 @@ export const getAllOrderByAdmin=async(req,res,next)=>{
   } 
   //admin delete order
   export const deleteOrder=async(req,res,next)=>{
-   // console.log(req.params.id);
+    console.log(req.params.id);
     const order=await Order.findById(req.params.id);
     if(!order){
         return next(new errorHandler("Order not found with this id",404))

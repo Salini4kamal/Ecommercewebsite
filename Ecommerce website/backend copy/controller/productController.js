@@ -15,7 +15,7 @@ import errorHandler from "../helper/handleError.js"
  export const getAllProducts=async(req,res,next)=>{
    
    // const products=await Product.find()
-   const resultPerPage=8;
+   const resultPerPage=20;
    const apiHelper=new APIHelper(Product.find(),req.query).search().filter();
    const filteredQuery=apiHelper.query.clone();
    const productCount=await filteredQuery.countDocuments();
@@ -26,11 +26,11 @@ if(page > totalPages){
     return next(new errorHandler("This pagedoesn't exist",404))
 }
 
-  // console.log(apiHelper)
+   console.log(apiHelper)
    apiHelper.pagination(resultPerPage);
    const products=await apiHelper.query;
 
-// console.log(req.query.keyword)
+console.log(req.query.keyword)
     res.status(200).json({
         success:true,
         products,
@@ -77,31 +77,29 @@ export const getSingleProduct=async(req,res,next)=>{
 }
 //Add review0
 export const createProductReview=async(req,res,next)=>{
-   //  console.log("Headers:", req.headers["content-type"]);
-    //console.log("Body:", req.body);
+     console.log("Headers:", req.headers["content-type"]);
+    console.log("Body:", req.body);
 const {rating,comment,productId}=req.body;
 const review={
     user:req.user._id,
     name:req.user.name,
-    avatar:req.user.avatar.url,  
-    ratings:Number(rating),
-    comment:{type:String,required:true},
-    createdAt:{
-        type:Date,
-        default:Date.now,
+    avatar:req.user.avatar.url,
+      rating: Number(rating),   // ✅ consistent naming
+    comment: comment,         // ✅ direct value
+    createdAt: Date.now(), 
     },
-};
+
 const product=await Product.findById(productId);
 if(!product){
     return next(new errorHandler("Product not found",404))
 }
 
-const reviewExist=product.reviews.find((rev)=>rev.user.toString()===req.user._id.toString());
+const reviewExist=product.reviews.find((rev)=>rev.user.toString()==req.user._id );
 //update review    // (rev) => rev.user.toString() === req.user._id.toString()
 if(reviewExist){
     product.reviews.forEach((rev)=>{
-        if(rev.user.toString()==req.user.id){
-            rev.ratings=rating;
+        if(rev.user.toString()==req.user._id.toString()){
+            rev.rating=rating;
             rev.comment=comment;
         }
     })
@@ -118,7 +116,7 @@ product.reviews.forEach((rev)=>{
     sum+=rev.rating; 
 });
 
-product.ratings=product.reviews.length>0?sum/product.reviews.length:0;
+product.rating=product.reviews.length>0?sum/product.reviews.length:0;
 //save details
 await product.save({validateBeforeSave: false});
 res.status(200).json({
